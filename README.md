@@ -1,4 +1,4 @@
-# Chess App by Shreyash Hatkar
+# Chess App by Shreyash Hatkar (Hitwicket Asg)
 
 Welcome to the **Chess App** - a modern, feature-rich chess game designed with Tailwind CSS, JavaScript, Node.js, and Firebase. This app allows you to enjoy a classic game of chess both offline against a computer and online with your friends.
 
